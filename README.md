@@ -35,7 +35,7 @@ started, which is an exemplary payload file displaying a MessageBox.
 
 When everything worked correctly, Payload.exe should be executed, displaying basic information including integrity level.
 
-![](http://bytecode77.localhost/images/sites/hacking/exploits/uac-bypass/remote-assistance-privilege-escalation/result.png)
+![](https://bytecode77.com/images/sites/hacking/exploits/uac-bypass/remote-assistance-privilege-escalation/result.png)
 
 ## Downloads
 
